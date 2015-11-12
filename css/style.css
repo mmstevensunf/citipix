@@ -1,8 +1,8 @@
 /*
-Project Name: Blank Template
-Client: Your Client
-Author: Your Name
-Developer @GA in NYC
+Project Name: City Pix
+Client: No one yet
+Author: Michelle Stevens
+Developer @GA in Seattle
 */
 
 
@@ -120,23 +120,30 @@ header {
   cursor: pointer;
 }
 #submit-btn:hover {
-  background: #fff600;
+  background: #646464;
 }
 
 .nyc {
-  background-image: url(../images/nyc.jpg)
+  background-image: url(images/nyc.jpg)
 }
+
 .sf {
-  background-image: url(../images/sf.jpg)
+  background-image: url(images/sf.jpg)
 }
+
 .la {
-  background-image: url(../images/la.jpg)
+  background-image: url(images/la.jpg)
 }
-.austin {
-  background-image: url(../images/austin.jpg)
+.atx {
+  background-image: url(images/austin.jpg)
 }
-.sydney {
-  background-image: url(../images/sydney.jpg)
+
+.syd {
+  background-image: url(images/sydney.jpg)
+}
+
+.sea {
+  background-image: url(images/seattle.jpg)
 }
 
 /******************************************
